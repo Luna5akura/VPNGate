@@ -6,4 +6,10 @@ A crappy automation for VPNGate connection
 
 The argument of main function represents the countries you want to connect, only the capped first letter is needed.Either a list or string.
 
+Example:
+
+```python
+main("J,K,T,I")
+```
+
 If in a non-Chinese environment,the strings patterns need to be renamed accordingly.
